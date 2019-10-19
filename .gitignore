@@ -2,6 +2,10 @@
 # Created by https://www.gitignore.io/api/vim,pydev,linux,macos,emacs,python,windows,intellij,virtualenv,intellij+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,pydev,linux,macos,emacs,python,windows,intellij,virtualenv,intellij+all,visualstudiocode
 
+### Project Specific
+uploads/
+
+
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
