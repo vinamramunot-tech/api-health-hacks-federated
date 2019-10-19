@@ -4,6 +4,7 @@ In order to setup project depedencies you'll need virtualenv
 ```sh
 $ pip3 install virtualenv
 $ virtualenv -p python3 env
+$ source env/bin/activate
 ```
 
 Project setup
