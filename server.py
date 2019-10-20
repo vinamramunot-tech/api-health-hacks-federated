@@ -3,7 +3,7 @@ import os
 from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = './uploads'
-ALLOWED_EXTENSIONS = set(['csv'])
+ALLOWED_EXTENSIONS = set(['pickle'])
 
 application = Flask(__name__)
 application.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
